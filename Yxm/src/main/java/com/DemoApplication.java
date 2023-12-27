@@ -1,6 +1,6 @@
-package com.springboot;
+package com;
 
-import com.springboot.bean.TestConfigBean;
+import com.springboot.bean.config.TestConfigBean;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

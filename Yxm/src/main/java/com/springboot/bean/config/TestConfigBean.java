@@ -1,4 +1,4 @@
-package com.springboot.bean;
+package com.springboot.bean.config;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.springframework.boot.context.properties.ConfigurationProperties;
